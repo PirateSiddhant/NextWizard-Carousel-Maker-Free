@@ -1,0 +1,7 @@
+{
+  "name": "CarouselWizard AI",
+  "description": "The fastest way to generate visually stunning social media carousels for LinkedIn, Instagram, and TikTok using AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
